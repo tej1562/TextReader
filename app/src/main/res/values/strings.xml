@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextReader</string>
+    <string name="accessibility_service_label">Text Reader Service</string>
+    <string name="info_text"> This app requires access to Text Reader Service. If not already enabled, press the above button and allow it from accessibility options.</string>
+    <string name="accessibility_service_description">This service allows the text reader app to read text from any app on your device</string>
+</resources>
